@@ -107,6 +107,7 @@
         android:layout_marginTop="16dp"
         android:maxWidth="8dp"
         app:tabIndicatorHeight="0dp"
+        app:tabMode="scrollable"
         app:tabBackground="@drawable/tab_selector"
         app:layout_constraintEnd_toEndOf="@+id/photoViewPager"
         app:layout_constraintStart_toStartOf="@+id/photoViewPager"
