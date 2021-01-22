@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tattoo Studio App</string>
+    <string name="splashName1">Tattoo</string>
+    <string name="splashName2">Studio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bio_text">I do art, I have constant contact with it.
+        It’s not boring, and is something I really enjoy. I get to know a lot of people,
+        different artists and very interesting customers and it pays well. </string>
+    <string name="bioName1">Jake</string>
+    <string name="bioName2">DAVIES</string>
+    <string name="signup">SIGNUP</string>
+    <string name="signup_using">SIGNUP using</string>
+    <string name="username_hint">Username</string>
+    <string name="fullname">Full name</string>
+    <string name="password">Pass</string>
+    <string name="tattoo">Tattoo</string>
+    <string name="photos">PHOTOS</string>
+    <string name="pNo">20</string>
+    <string name="viewall">VIEW ALL</string>
+    <string name="ex1">FULL BODY</string>
+    <string name="ex2">PHOTOREALISTIC</string>
+    <string name="ex3">SYMBOLIC</string>
+    <string name="back">BACK</string>
+    <string name="menu">MENU</string>
+    <string name="pager">1 OF 3</string>
+    <string name="close">CLOSE</string>
+</resources>
